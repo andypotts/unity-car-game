@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5e44c1d13881b43f5802e2b7fa5cc30a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WheelFL: {instanceID: 0}
+  - WheelFR: {instanceID: 0}
+  - WheelRL: {instanceID: 0}
+  - WheelRR: {instanceID: 0}
+  - WheelFRTrans: {instanceID: 0}
+  - WheelFLTrans: {instanceID: 0}
+  - WheelRLTrans: {instanceID: 0}
+  - WheelRRTrans: {instanceID: 0}
+  - brakeMap: {instanceID: 0}
+  - normalMap: {instanceID: 0}
+  - truckBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
